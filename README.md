@@ -1,1 +1,1 @@
-# pricing-calculator
+# pricing-calculator using Javascript 
