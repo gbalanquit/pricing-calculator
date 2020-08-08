@@ -1,0 +1,9 @@
+body,
+.jumbotron {
+  padding: 30px;
+  background-color: rgb(48, 200, 200);
+}
+
+.text-giant {
+  font-size: 40px;
+}
